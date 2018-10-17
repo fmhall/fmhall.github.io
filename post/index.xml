@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mason Hall</title>
-    <link>https://fmhall.github.io/</link>
-    <description>Recent content on Mason Hall</description>
+    <title>Posts on Mason Hall</title>
+    <link>https://fmhall.github.io/post/</link>
+    <description>Recent content in Posts on Mason Hall</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>masonhall@gmail.com (Mason Hall)</managingEditor>
     <webMaster>masonhall@gmail.com (Mason Hall)</webMaster>
     <lastBuildDate>Tue, 16 Oct 2018 21:18:24 -0500</lastBuildDate>
     
-	<atom:link href="https://fmhall.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fmhall.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,17 +28,6 @@
       <author>masonhall@gmail.com (Mason Hall)</author>
       <guid>https://fmhall.github.io/post/my-second-post/</guid>
       <description> Anyone there? </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://fmhall.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>masonhall@gmail.com (Mason Hall)</author>
-      <guid>https://fmhall.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>
